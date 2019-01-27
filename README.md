@@ -6,7 +6,7 @@ In root directory run:
 ```
   npm install
 ```
-In this project I used json-server to simulate API connecetion.
+In this project I used json-server to simulate API connection.
 
 Please install json-server 
 ```
